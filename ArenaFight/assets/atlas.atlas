@@ -1,0 +1,601 @@
+
+atlas.png
+size: 128, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+attack down
+  rotate: false
+  xy: 2, 44
+  size: 11, 14
+  orig: 32, 32
+  offset: 9, 9
+  index: 2
+attack down
+  rotate: false
+  xy: 38, 82
+  size: 10, 14
+  orig: 32, 32
+  offset: 10, 9
+  index: 1
+attack down
+  rotate: false
+  xy: 15, 44
+  size: 10, 14
+  orig: 32, 32
+  offset: 10, 9
+  index: 3
+attack down
+  rotate: false
+  xy: 56, 17
+  size: 9, 14
+  orig: 32, 32
+  offset: 11, 9
+  index: 0
+attack right
+  rotate: false
+  xy: 82, 111
+  size: 9, 15
+  orig: 32, 32
+  offset: 12, 8
+  index: 1
+attack right
+  rotate: false
+  xy: 104, 111
+  size: 9, 15
+  orig: 32, 32
+  offset: 12, 8
+  index: 0
+attack right
+  rotate: false
+  xy: 49, 66
+  size: 10, 14
+  orig: 32, 32
+  offset: 11, 9
+  index: 2
+attack right
+  rotate: false
+  xy: 60, 50
+  size: 9, 14
+  orig: 32, 32
+  offset: 12, 9
+  index: 3
+attack up
+  rotate: false
+  xy: 2, 60
+  size: 11, 15
+  orig: 32, 32
+  offset: 12, 9
+  index: 2
+attack up
+  rotate: false
+  xy: 70, 111
+  size: 10, 15
+  orig: 32, 32
+  offset: 12, 9
+  index: 3
+attack up
+  rotate: false
+  xy: 15, 60
+  size: 10, 15
+  orig: 32, 32
+  offset: 12, 9
+  index: 1
+attack up
+  rotate: false
+  xy: 93, 111
+  size: 9, 15
+  orig: 32, 32
+  offset: 12, 9
+  index: 0
+idle down
+  rotate: false
+  xy: 2, 27
+  size: 9, 15
+  orig: 32, 32
+  offset: 11, 9
+  index: 2
+idle down
+  rotate: false
+  xy: 49, 49
+  size: 9, 15
+  orig: 32, 32
+  offset: 11, 9
+  index: 3
+idle down
+  rotate: false
+  xy: 66, 34
+  size: 9, 14
+  orig: 32, 32
+  offset: 11, 9
+  index: 1
+idle down
+  rotate: false
+  xy: 71, 50
+  size: 9, 14
+  orig: 32, 32
+  offset: 11, 9
+  index: 0
+idle right
+  rotate: false
+  xy: 12, 10
+  size: 9, 15
+  orig: 32, 32
+  offset: 11, 9
+  index: 3
+idle right
+  rotate: false
+  xy: 50, 82
+  size: 9, 14
+  orig: 32, 32
+  offset: 11, 9
+  index: 1
+idle right
+  rotate: false
+  xy: 61, 82
+  size: 9, 15
+  orig: 32, 32
+  offset: 11, 9
+  index: 2
+idle up
+  rotate: false
+  xy: 27, 62
+  size: 9, 15
+  orig: 32, 32
+  offset: 12, 9
+  index: 2
+idle up
+  rotate: false
+  xy: 45, 14
+  size: 9, 15
+  orig: 32, 32
+  offset: 12, 9
+  index: 3
+idle up
+  rotate: false
+  xy: 55, 33
+  size: 9, 14
+  orig: 32, 32
+  offset: 12, 9
+  index: 1
+idle up
+  rotate: false
+  xy: 71, 2
+  size: 9, 14
+  orig: 32, 32
+  offset: 12, 9
+  index: 0
+roll down
+  rotate: false
+  xy: 2, 9
+  size: 8, 16
+  orig: 32, 32
+  offset: 12, 9
+  index: 1
+roll down
+  rotate: false
+  xy: 34, 27
+  size: 8, 16
+  orig: 32, 32
+  offset: 12, 9
+  index: 0
+roll down
+  rotate: false
+  xy: 95, 98
+  size: 8, 11
+  orig: 32, 32
+  offset: 12, 9
+  index: 2
+roll down
+  rotate: false
+  xy: 105, 99
+  size: 8, 10
+  orig: 32, 32
+  offset: 12, 9
+  index: 3
+roll right
+  rotate: false
+  xy: 27, 79
+  size: 9, 17
+  orig: 32, 32
+  offset: 11, 9
+  index: 0
+roll right
+  rotate: false
+  xy: 45, 2
+  size: 12, 10
+  orig: 32, 32
+  offset: 10, 9
+  index: 2
+roll right
+  rotate: false
+  xy: 61, 66
+  size: 9, 14
+  orig: 32, 32
+  offset: 11, 9
+  index: 1
+roll right
+  rotate: false
+  xy: 82, 4
+  size: 9, 13
+  orig: 32, 32
+  offset: 12, 9
+  index: 3
+roll up
+  rotate: false
+  xy: 24, 26
+  size: 8, 16
+  orig: 32, 32
+  offset: 12, 9
+  index: 0
+roll up
+  rotate: false
+  xy: 78, 19
+  size: 8, 13
+  orig: 32, 32
+  offset: 12, 9
+  index: 1
+roll up
+  rotate: false
+  xy: 85, 98
+  size: 8, 11
+  orig: 32, 32
+  offset: 12, 9
+  index: 2
+roll up
+  rotate: false
+  xy: 72, 87
+  size: 10, 7
+  orig: 32, 32
+  offset: 11, 9
+  index: 3
+sword attack down
+  rotate: false
+  xy: 27, 113
+  size: 23, 13
+  orig: 32, 32
+  offset: 6, 2
+  index: 0
+sword attack down
+  rotate: false
+  xy: 27, 98
+  size: 23, 13
+  orig: 32, 32
+  offset: 1, 2
+  index: 1
+sword attack down
+  rotate: false
+  xy: 115, 117
+  size: 11, 9
+  orig: 32, 32
+  offset: 0, 13
+  index: 3
+sword attack down
+  rotate: false
+  xy: 59, 2
+  size: 10, 13
+  orig: 32, 32
+  offset: 0, 4
+  index: 2
+sword attack right
+  rotate: false
+  xy: 2, 107
+  size: 23, 19
+  orig: 32, 32
+  offset: 8, 2
+  index: 0
+sword attack right
+  rotate: false
+  xy: 52, 109
+  size: 16, 17
+  orig: 32, 32
+  offset: 15, 1
+  index: 1
+sword attack right
+  rotate: false
+  xy: 52, 99
+  size: 13, 8
+  orig: 32, 32
+  offset: 7, 2
+  index: 2
+sword attack right
+  rotate: false
+  xy: 115, 97
+  size: 7, 7
+  orig: 32, 32
+  offset: 7, 6
+  index: 3
+sword attack up
+  rotate: false
+  xy: 2, 92
+  size: 23, 13
+  orig: 32, 32
+  offset: 8, 17
+  index: 1
+sword attack up
+  rotate: false
+  xy: 2, 77
+  size: 23, 13
+  orig: 32, 32
+  offset: 3, 17
+  index: 0
+sword attack up
+  rotate: false
+  xy: 115, 106
+  size: 11, 9
+  orig: 32, 32
+  offset: 21, 10
+  index: 3
+sword attack up
+  rotate: false
+  xy: 73, 96
+  size: 10, 13
+  orig: 32, 32
+  offset: 22, 15
+  index: 2
+sword idle up
+  rotate: false
+  xy: 82, 53
+  size: 3, 12
+  orig: 32, 32
+  offset: 19, 14
+  index: 3
+sword idle up
+  rotate: false
+  xy: 82, 53
+  size: 3, 12
+  orig: 32, 32
+  offset: 19, 13
+  index: 1
+sword idle up
+  rotate: false
+  xy: 95, 84
+  size: 3, 12
+  orig: 32, 32
+  offset: 19, 13
+  index: 2
+sword roll down
+  rotate: false
+  xy: 2, 2
+  size: 3, 5
+  orig: 32, 32
+  offset: 11, 17
+  index: 2
+sword roll down
+  rotate: false
+  xy: 84, 73
+  size: 4, 7
+  orig: 32, 32
+  offset: 11, 6
+  index: 1
+sword roll down
+  rotate: false
+  xy: 100, 87
+  size: 4, 9
+  orig: 32, 32
+  offset: 11, 16
+  index: 0
+sword roll right
+  rotate: false
+  xy: 72, 67
+  size: 12, 4
+  orig: 32, 32
+  offset: 2, 17
+  index: 3
+sword roll right
+  rotate: false
+  xy: 89, 84
+  size: 4, 12
+  orig: 32, 32
+  offset: 11, 1
+  index: 2
+sword roll up
+  rotate: false
+  xy: 67, 99
+  size: 4, 8
+  orig: 32, 32
+  offset: 17, 12
+  index: 2
+sword roll up
+  rotate: false
+  xy: 124, 96
+  size: 2, 8
+  orig: 32, 32
+  offset: 19, 16
+  index: 3
+sword roll up
+  rotate: false
+  xy: 12, 2
+  size: 4, 6
+  orig: 32, 32
+  offset: 17, 8
+  index: 1
+sword walk down
+  rotate: false
+  xy: 78, 73
+  size: 4, 12
+  orig: 32, 32
+  offset: 10, 14
+  index: 1
+sword idle down_0
+  rotate: false
+  xy: 78, 73
+  size: 4, 12
+  orig: 32, 32
+  offset: 10, 14
+  index: 3
+sword idle down_1
+  rotate: false
+  xy: 78, 73
+  size: 4, 12
+  orig: 32, 32
+  offset: 10, 13
+  index: 2
+sword roll down
+  rotate: false
+  xy: 78, 73
+  size: 4, 12
+  orig: 32, 32
+  offset: 11, 14
+  index: 3
+sword walk down
+  rotate: false
+  xy: 78, 73
+  size: 4, 12
+  orig: 32, 32
+  offset: 10, 15
+  index: 0
+sword walk down
+  rotate: false
+  xy: 78, 73
+  size: 4, 12
+  orig: 32, 32
+  offset: 10, 15
+  index: 2
+sword walk right
+  rotate: false
+  xy: 72, 73
+  size: 4, 12
+  orig: 32, 32
+  offset: 13, 15
+  index: 2
+sword idle right_0
+  rotate: false
+  xy: 72, 73
+  size: 4, 12
+  orig: 32, 32
+  offset: 12, 14
+  index: 3
+sword idle right_1
+  rotate: false
+  xy: 72, 73
+  size: 4, 12
+  orig: 32, 32
+  offset: 12, 13
+  index: 2
+sword roll right
+  rotate: false
+  xy: 72, 73
+  size: 4, 12
+  orig: 32, 32
+  offset: 14, 18
+  index: 0
+sword roll right
+  rotate: false
+  xy: 72, 73
+  size: 4, 12
+  orig: 32, 32
+  offset: 14, 15
+  index: 1
+sword walk right
+  rotate: false
+  xy: 72, 73
+  size: 4, 12
+  orig: 32, 32
+  offset: 11, 15
+  index: 0
+sword walk right
+  rotate: false
+  xy: 72, 73
+  size: 4, 12
+  orig: 32, 32
+  offset: 12, 14
+  index: 1
+sword walk up
+  rotate: false
+  xy: 84, 82
+  size: 3, 12
+  orig: 32, 32
+  offset: 19, 14
+  index: 1
+sword idle up
+  rotate: false
+  xy: 84, 82
+  size: 3, 12
+  orig: 32, 32
+  offset: 19, 14
+  index: 0
+sword walk up
+  rotate: false
+  xy: 84, 82
+  size: 3, 12
+  orig: 32, 32
+  offset: 19, 15
+  index: 0
+sword walk up
+  rotate: false
+  xy: 84, 82
+  size: 3, 12
+  orig: 32, 32
+  offset: 19, 15
+  index: 2
+walk down
+  rotate: false
+  xy: 38, 48
+  size: 9, 15
+  orig: 32, 32
+  offset: 11, 9
+  index: 0
+walk down
+  rotate: false
+  xy: 34, 10
+  size: 9, 15
+  orig: 32, 32
+  offset: 11, 9
+  index: 2
+walk down
+  rotate: false
+  xy: 77, 34
+  size: 9, 14
+  orig: 32, 32
+  offset: 11, 9
+  index: 1
+walk right
+  rotate: false
+  xy: 27, 45
+  size: 9, 15
+  orig: 32, 32
+  offset: 11, 9
+  index: 0
+walk right
+  rotate: false
+  xy: 23, 10
+  size: 9, 14
+  orig: 32, 32
+  offset: 11, 9
+  index: 1
+idle right
+  rotate: false
+  xy: 23, 10
+  size: 9, 14
+  orig: 32, 32
+  offset: 11, 9
+  index: 0
+walk right
+  rotate: false
+  xy: 44, 31
+  size: 9, 15
+  orig: 32, 32
+  offset: 11, 9
+  index: 2
+walk up
+  rotate: false
+  xy: 38, 65
+  size: 9, 15
+  orig: 32, 32
+  offset: 12, 9
+  index: 0
+walk up
+  rotate: false
+  xy: 13, 27
+  size: 9, 15
+  orig: 32, 32
+  offset: 12, 9
+  index: 2
+walk up
+  rotate: false
+  xy: 67, 18
+  size: 9, 14
+  orig: 32, 32
+  offset: 12, 9
+  index: 1
